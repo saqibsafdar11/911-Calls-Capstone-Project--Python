@@ -1,4 +1,4 @@
-## 911 Calls Capstone Project
+## 911 Calls Data Science - Python Project
 
 This project aims to analyse 911 call data sourced from Kaggle. The dataset includes various fields such as latitude, longitude, description, postcode, title, timestamp, township, address, and a dummy variable.
 
